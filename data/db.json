@@ -1,0 +1,19 @@
+{
+    "products": [
+      {
+        "id": "1",
+        "name": "Shiftering",
+        "price": "1.000000000"
+      },
+      {
+        "id": "2",
+        "name": "When Excuses Lose Ground",
+        "price": "2000000000"
+      },
+      {
+        "id": "3",
+        "name": "Merch",
+        "price": "300"
+      }
+    ]
+  }
